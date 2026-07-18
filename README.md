@@ -50,7 +50,7 @@
 * **OS Version:** `10.0.26200`
 * **System Architecture:** `x64`
 
-## 🖱️ Peripherals & Audio
+## 🖱️ Peripherals
 * **Keyboard:** Tracer GameZone (USB Input Device, Semico Chip)
 * **Mouse:** Yenkee YMS 3028RO "Shadow" (Sino Wealth Chip)
 
