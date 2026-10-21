@@ -55,7 +55,6 @@ performance.
 
 | Component | Model | Details |
 | :--- | :--- | :--- |
-| **[universal-optimizer](https://github.com/GameRipper665/universal-optimizer)** | Skills and tools that let any AI coding agent make games run faster, measured before and after: PC games in any engine, emulators, and the source of games you make. | Python |
 | **CPU** | AMD Ryzen 7 5800X | 8 cores, 16 threads, AM4 |
 | **GPU** | NVIDIA GeForce RTX 5060 | 8 GB VRAM |
 | **RAM** | 64 GB DDR4-3200 | 2 × 32 GB, dual channel |
