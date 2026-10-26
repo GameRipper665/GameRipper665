@@ -23,6 +23,7 @@ performance.
 | **[universal-optimizer](https://github.com/GameRipper665/universal-optimizer)** | Skills and tools that let any AI coding agent make games run faster, measured before and after: PC games in any engine, emulators, and the source of games you make. | Python |
 | **[Pulse](https://github.com/GameRipper665/Pulse)** | A lightweight Luau library for reactivity, real-time updates and event-driven state in Roblox experiences. | Luau |
 | **[medal-decompiler-improved](https://github.com/GameRipper665/medal-decompiler-improved)** | An improved version of Medal's Luau decompiler. | Rust |
+| **[ytm-rpc](https://github.com/GameRipper665/ytm-rpc)** | A browser extension that shows what you're listening to on YouTube Music as your Discord status. No desktop app needed. | JavaScript |
 
 ---
 
